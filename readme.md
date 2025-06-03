@@ -87,6 +87,7 @@
 
 ## Warehouse Management
 - [Warehouse Management 2nd Edition: A Complete Guide](https://www.amazon.com/Warehouse-Management-Improving-Efficiency-Minimizing-ebook/dp/B00KJ2ZG5S/)
+- [WT-3PL/wills-transfer-3pl-services-ontario-api](https://github.com/WT-3PL/wills-transfer-3pl-services-ontario-api) - RESTful API for third-party logistics in Ontario, covering inventory tracking and warehouse operations.
 
 
 ## Misc
